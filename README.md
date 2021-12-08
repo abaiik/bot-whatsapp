@@ -56,4 +56,5 @@ Information: how to use or add a case sticker command by replying to the sticker
 
 ### Also Thanks to
   [Zhwzein](https://github.com/zhwzein/)
+  
   [`Baileys`](https://github.com/adiwajshing/Baileys)
