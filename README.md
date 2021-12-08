@@ -1,9 +1,4 @@
-# Example Self WhatsApp BOT  
-
-<a href="https://github.com/abaiik"><img title="Author" src="https://img.shields.io/badge/Author-Zhwzein-red.svg?style=for-the-badge&logo=github" /></a>  
-<a href="https://github.com/zhwzein/ExampleSelep"><img title="Stars" src="https://img.shields.io/github/stars/zhwzein/ExampleSelep?color=yellow&style=flat-square" /></a>
-<a href="https://github.com/zhwzein/ExampleSelep/network/members"><img title="Forks" src="https://img.shields.io/github/forks/zhwzein/ExampleSelep?color=green&style=flat-square" /></a>
-<a href="https://github.com/zhwzein/ExampleSelep/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/zhwzein/ExampleSelep?label=watchers&color=blue&style=flat-square" /></a> <br>
+# Self WhatsApp BOT  
 
 ---
 
@@ -19,8 +14,8 @@
 <details><summary><b>Installation</b></summary><br>
   
 ```bash
-> git clone https://github.com/zhwzein/ExampleSelep
-> cd ExampleSelep
+> git clone https://github.com/abaiik/bot-whatsapp
+> cd bot-whatsapp
 > npm install
 ```
 </details>
@@ -60,5 +55,5 @@ scan the QR code using your WhatsApp!
 Information: how to use or add a case sticker command by replying to the sticker you want to make a command and giving the hash command then check in the console log and copy the given code, paste the code into the case after the switch (commandstick)
 
 ### Also Thanks to
-
+  [Zhwzein](https://github.com/zhwzein/)
   [`Baileys`](https://github.com/adiwajshing/Baileys)
